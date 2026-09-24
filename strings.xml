@@ -1,0 +1,57 @@
+<resources>
+    <!-- App Identity & Brand -->
+    <string name="app_name">WinKoKo Tunnel</string>
+    <string name="developer_name">Developed by WinKoKoOo</string>
+    <string name="app_version">Version 1.0.0 (Release)</string>
+    <string name="app_tagline">Fast &amp; Secure Cloudflare WARP / WireGuard Tunnel</string>
+
+    <!-- Navigation Drawer -->
+    <string name="nav_home">Home</string>
+    <string name="nav_servers">Endpoint &amp; Clean IPs</string>
+    <string name="nav_apps">Split Tunneling (Apps)</string>
+    <string name="nav_warp_key">WARP+ License Key</string>
+    <string name="nav_logs">Realtime Logs</string>
+    <string name="nav_settings">Tunnel Settings</string>
+    <string name="nav_about">About WinKoKo Tunnel</string>
+
+    <!-- VPN Connection Status -->
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting to WinKoKo Tunnel…</string>
+    <string name="status_connected">Connected - Secure Tunnel Active</string>
+    <string name="status_disconnecting">Disconnecting…</string>
+    <string name="status_reconnecting">Reconnecting to Endpoint…</string>
+    <string name="status_error">Connection Failed</string>
+
+    <!-- UI Buttons & Actions -->
+    <string name="btn_connect">TAP TO CONNECT</string>
+    <string name="btn_disconnect">DISCONNECT</string>
+    <string name="btn_connecting">CONNECTING…</string>
+    <string name="btn_reconnect">RECONNECT</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_telegram_channel">Join Telegram Channel</string>
+    <string name="btn_developer_contact">Contact WinKoKoOo</string>
+
+    <!-- Metrics & Labels -->
+    <string name="label_protocol">Protocol</string>
+    <string name="protocol_value">WireGuard / Cloudflare WARP</string>
+    <string name="label_server">Active Endpoint</string>
+    <string name="label_ping">Latency / Ping</string>
+    <string name="label_upload">Upload Speed</string>
+    <string name="label_download">Download Speed</string>
+    <string name="label_ip">Virtual IP</string>
+
+    <!-- Notification Strings -->
+    <string name="notification_channel_name">WinKoKo Tunnel Service</string>
+    <string name="notification_channel_desc">Shows ongoing VPN connection status and traffic stats</string>
+    <string name="notification_title_connected">WinKoKo Tunnel is ACTIVE</string>
+    <string name="notification_text_connected">Secured via WireGuard WARP Engine (Developed by WinKoKoOo)</string>
+    <string name="notification_title_disconnected">WinKoKo Tunnel Disconnected</string>
+
+    <!-- About Dialog -->
+    <string name="about_title">About WinKoKo Tunnel</string>
+    <string name="about_lead">WinKoKo Tunnel is a high-performance WireGuard and Cloudflare WARP engine built for fast, uncensored, and encrypted internet connectivity.</string>
+    <string name="about_developer_info">Developer: WinKoKoOo
+Engine: WireGuard Native + WARP Cloudflare Protocol
+Package: com.winkoko.tunnel
+Made with ❤️ for Myanmar Community.</string>
+</resources>
